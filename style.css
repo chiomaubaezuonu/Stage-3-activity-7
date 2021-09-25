@@ -572,6 +572,12 @@ hr {
     .overlay-div {
         display: none;
     }
+    .overlay-div {
+        margin-top: 5rem;
+    }
+    /* #overlay-text, #overlay-text2 {
+        margin-top: 20rem;
+    } */
     .third-section .third-section-content {
         display: flex;
         flex-direction: column;
